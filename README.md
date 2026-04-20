@@ -4,7 +4,6 @@
 
 <p align="left">Hi, I’m Hicham! 🇩🇿<br><br>I am a Self-Taught Software Engineer based in Bechar, Algeria. With a university background in Law, I’ve transitioned into the world of tech, bringing a unique perspective on logic, structured thinking, and problem-solving to backend development.<br><br>🚀 What I’m working on: Currently building a comprehensive Bank Management System using C# and SQL Server, focusing on Layered Architecture and Clean Code principles.<br><br>🧠 Current Learning Path: Deep-diving into Data Structures (Stacks, Queues, Linked Lists) and mastering LeetCode challenges to sharpen my algorithmic thinking.<br><br>🎯 Goal: To build scalable, high-performance backend systems and collaborate with international engineering teams.</p>
 
-###
 
 
 
